@@ -1,0 +1,53 @@
+body {
+    background-color: #d4e0e4;
+    font-family: "Merienda";
+}
+
+.container {
+    width: 80vmin;
+    padding: 50px 40px;
+    background-color: #829ea3;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    border-radius: 10px;
+    box-shadow: 20px 20px 40px rgba(97, 63, 0, 0.4);
+}
+
+span {
+    display: block;
+    text-align: center;
+    font-size: 100px;
+}
+
+p {
+    font-size: 20px;
+    color: #040000;
+    font-weight: center;
+    word-wrap: break-word;
+    line-height: 35px;
+    margin: 30px 0;
+    text-shadow: rgb(39, 31, 31) 3px 5px 5px;
+}
+
+button {
+    display: block;
+    background-color: #1f5761;
+    border: none;
+    padding: 5px;
+    font-size: 18px;
+    color: white;
+    border-radius: 5px;
+    font-weight: 600;
+    padding: 12px 24px;
+    margin: 0 auto;
+    box-shadow: 0px 0px 2px 4px rgb(110, 119, 95), 2px 0px 2px 5px rgb(21, 168, 187);
+    cursor: pointer;
+
+}
+
+h1 {
+    text-align: center;
+    font-weight: 800;
+}
